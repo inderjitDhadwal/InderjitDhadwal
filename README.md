@@ -1,4 +1,7 @@
 ## Hi there 👋
+## IT Instructor , programming, networking, cybersecurity. 
+## also learner because
+## Learn continually, there's always "one more thing to learn."
 
 <!--
 **inderjitDhadwal/InderjitDhadwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
